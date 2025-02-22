@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define OUTSTRING "master v02"
+#define OUTSTRING "br1 v02.01"
 
 int func1()
 {
